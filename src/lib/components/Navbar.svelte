@@ -3,10 +3,10 @@
 
 	// General Icons
 	import ChevronDown from '$lib/assets/icons/ChevronDown.svelte';
-	import Twitter from '$lib/assets/icons/brand/TwitterIcon.svelte';
 	import GitHubIcon from '$lib/assets/icons/brand/GitHubIcon.svelte';
 	import MastodonIcon from '$lib/assets/icons/brand/MastodonIcon.svelte';
 	import DiscordIcon from '$lib/assets/icons/brand/DiscordIcon.svelte';
+	import TwitterIcon from '$lib/assets/icons/brand/TwitterIcon.svelte';
 </script>
 
 <div class="navbar">
@@ -47,7 +47,7 @@
 				</li>
 				<li>
 					<a href="https://twitter.com/jadelily18">
-						<Twitter svgWidth="22" />
+						<TwitterIcon svgWidth="22" />
 						<p class="pb-0.5">Twitter</p>
 					</a>
 				</li>
