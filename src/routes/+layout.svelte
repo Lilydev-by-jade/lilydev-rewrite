@@ -7,7 +7,7 @@
 <svelte:head>
 	<title>Lilydev</title>
 </svelte:head>
-<div class="flex flex-col justify-between md:px-20 w-screen h-screen">
+<div class="flex flex-col justify-between md:px-20 w-screen min-h-screen">
 	<Navbar />
 	<slot />
 	<Footer />

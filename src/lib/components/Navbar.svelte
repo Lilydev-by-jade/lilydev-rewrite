@@ -3,6 +3,8 @@
 
 	// General Icons
 	import ChevronDown from '$lib/assets/icons/ChevronDown.svelte';
+
+	// Brand Icons
 	import GitHubIcon from '$lib/assets/icons/brand/GitHubIcon.svelte';
 	import MastodonIcon from '$lib/assets/icons/brand/MastodonIcon.svelte';
 	import DiscordIcon from '$lib/assets/icons/brand/DiscordIcon.svelte';
