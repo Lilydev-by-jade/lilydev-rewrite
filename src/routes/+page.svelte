@@ -17,9 +17,7 @@
 			<a class="btn btn-primary btn-outline btn-wide" href="https://github.com/Lilydev-by-jade"
 				>GitHub</a
 			>
-			<a class="btn btn-primary btn-outline btn-wide" href="https://github.com/Lilydev-by-jade"
-				>Maven</a
-			>
+			<a class="btn btn-primary btn-outline btn-wide" href="https://maven.lilydev.com">Maven</a>
 		</div>
 	</div>
 </div>
