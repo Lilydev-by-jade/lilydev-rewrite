@@ -1,38 +1,12 @@
-# create-svelte
+# Lilydev
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+[![project license](https://img.shields.io/github/license/jadelily18/lilydev?style=flat-square)](https://github.com/jadelily18/lilydev/blob/master/LICENSE)
+[![discord invite](https://img.shields.io/discord/995465843364343883?color=5865F2&style=flat-square&label=discord)](https://discord.gg/TZAt4PA5av)
 
-## Creating a project
+My "brand" for me & my friends' projects.
 
-If you're seeing this, you've probably already done this step. Congrats!
+Made using [SvelteKit](https://kit.svelte.dev/), [TailwindCSS](https://tailwindcss.com/) w/ [DaisyUI](https://daisyui.com/), and deployed to [Vercel](https://vercel.com/).
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Licensing
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Lilydev website licensed under [GNU General Public License v3.0](https://github.com/jadelily18/lilydev/blob/master/LICENSE), branding licensed as All Rights Reserved.
