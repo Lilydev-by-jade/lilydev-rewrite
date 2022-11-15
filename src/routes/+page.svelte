@@ -3,7 +3,7 @@
 </script>
 
 <div class="hero">
-	<div class="hero-content flex-col">
+	<div class="hero-content flex-col justify-center">
 		<div class="max-w-xl space-y-4 md:space-y-8 text-center mb-2.5">
 			<h1 class="text-5xl font-bold">Welcome to Lilydev</h1>
 			<p class="text-lg">
@@ -13,7 +13,7 @@
 				to put here!
 			</p>
 		</div>
-		<div class="space-x-2">
+		<div class="sm:space-x-2 space-y-2 sm:space-y-0 flex flex-col sm:flex-row">
 			<a class="btn btn-primary btn-outline btn-wide" href="https://github.com/Lilydev-by-jade"
 				>GitHub</a
 			>
