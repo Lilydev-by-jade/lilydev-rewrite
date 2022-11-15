@@ -1,5 +1,5 @@
 <script>
-	import ImageCard from '$lib/components/ImageCard.svelte';
+	//
 </script>
 
 <div class="hero">
@@ -10,12 +10,16 @@
 				Lilydev is a website and "brand" created by <a href="/about/jade" class="link link-primary"
 					>Jade</a
 				> to host her and her friends' projects, portfolios, and pretty much anything else we decide
-				to put here! If you'd like more info, click either of the cards below
+				to put here!
 			</p>
 		</div>
-		<div class="flex flex-row space-x-3">
-			<ImageCard header="Jade" subHeader="(jadelily18)" />
-			<ImageCard header="Kyle" subHeader="(Void_BLISS)" />
+		<div class="space-x-2">
+			<a class="btn btn-primary btn-outline btn-wide" href="https://github.com/Lilydev-by-jade"
+				>GitHub</a
+			>
+			<a class="btn btn-primary btn-outline btn-wide" href="https://github.com/Lilydev-by-jade"
+				>Maven</a
+			>
 		</div>
 	</div>
 </div>

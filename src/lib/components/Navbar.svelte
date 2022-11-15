@@ -6,9 +6,7 @@
 
 	// Brand Icons
 	import GitHubIcon from '$lib/assets/icons/brand/GitHubIcon.svelte';
-	import MastodonIcon from '$lib/assets/icons/brand/MastodonIcon.svelte';
 	import DiscordIcon from '$lib/assets/icons/brand/DiscordIcon.svelte';
-	import TwitterIcon from '$lib/assets/icons/brand/TwitterIcon.svelte';
 </script>
 
 <div class="navbar">
@@ -30,7 +28,7 @@
 			<ul class="dropdown-content menu bg-neutral p-2 shadow-xl rounded-box w-52 mt-2">
 				<div class="divider">Social Media</div>
 				<li>
-					<a href="https://github.com/jadelily18">
+					<a href="https://github.com/Lilydev-by-jade">
 						<GitHubIcon svgWidth="22" />
 						<p class="pb-0.5">GitHub</p>
 					</a>
@@ -39,18 +37,6 @@
 					<a href="https://discord.gg/TZAt4PA5av">
 						<DiscordIcon svgWidth="22" />
 						<p class="pb-0.5">Discord</p>
-					</a>
-				</li>
-				<li>
-					<a href="https://tech.lgbt/@jadee">
-						<MastodonIcon svgWidth="22" />
-						<p class="pb-0.5">Mastodon</p>
-					</a>
-				</li>
-				<li>
-					<a href="https://twitter.com/jadelily18">
-						<TwitterIcon svgWidth="22" />
-						<p class="pb-0.5">Twitter</p>
 					</a>
 				</li>
 				<a class="btn btn-sm btn-primary btn-outline mt-3.5" href="/social">See all</a>
