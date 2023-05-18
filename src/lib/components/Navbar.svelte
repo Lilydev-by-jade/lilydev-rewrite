@@ -23,10 +23,10 @@
 			<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 			<label tabindex="0" class="btn btn-ghost flex place-items-center">
 				<ChevronDown svgWidth="18" class="mr-1 mt-0.5" />
-				<p>Socials</p>
+				<p>Links</p>
 			</label>
 			<ul class="dropdown-content menu bg-neutral p-2 shadow-xl rounded-box w-52 mt-2">
-				<div class="divider">Social Media</div>
+				<div class="divider">External Links</div>
 				<li>
 					<a href="https://github.com/Lilydev-by-jade">
 						<GitHubIcon svgWidth="22" />
@@ -39,7 +39,6 @@
 						<p class="pb-0.5">Discord</p>
 					</a>
 				</li>
-				<a class="btn btn-sm btn-primary btn-outline mt-3.5" href="/social">See all</a>
 			</ul>
 		</div>
 	</div>
